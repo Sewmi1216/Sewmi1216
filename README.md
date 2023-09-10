@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sewmi Thimaya
 
-I'm a passionate undergraduate student at the University of Colombo School of Computing, pursuing a Bachelor of Information Systems Honours degree
+A passionate undergraduate student at the University of Colombo School of Computing, pursuing a Bachelor of Information Systems Honours degree
 
 
 [![Sewmi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sewmi1216&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/Sewmi1216)

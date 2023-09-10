@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Sewmi Thimaya
 
+I'm a passionate undergraduate student at the University of Colombo School of Computing, pursuing a Bachelor of Information Systems Honours degree
+
+
+[![Sewmi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sewmi1216&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/Sewmi1216)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sewmi1216&layout=compact&theme=tokyonight)](https://github.com/Sewmi1216)
 <!--
 **Sewmi1216/Sewmi1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
